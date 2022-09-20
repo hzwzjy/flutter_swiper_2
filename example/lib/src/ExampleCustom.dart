@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_swiper_null_safety/flutter_swiper_null_safety.dart';
+import 'package:flutter_swiper_2/flutter_swiper_2.dart';
 
 import 'config.dart';
 import 'forms/form_widget.dart';
